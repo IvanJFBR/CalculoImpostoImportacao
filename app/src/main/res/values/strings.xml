@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cálculo Imposto Importação</string>
+    <string-array name="tipos_envios">
+        <item>Correios</item>
+        <item>Courier</item>
+    </string-array>
 </resources>
